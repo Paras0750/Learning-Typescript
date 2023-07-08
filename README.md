@@ -1,6 +1,6 @@
 # Typescript Learning Repo
 
-![TypeScript Logo](https://www.typescriptlang.org/images/branding/logo-grouping.svg)
+![TypeScript Logo]([https://www.typescriptlang.org/images/branding/logo-grouping.svg](https://cdn.iconscout.com/icon/free/png-512/free-typescript-1-1175078.png?f=avif&w=512))
 
 This repository serves as a learning resource for TypeScript, a statically typed superset of JavaScript that adds optional static typing to the language. The repo is divided into three folders, each covering different aspects of TypeScript.
 
